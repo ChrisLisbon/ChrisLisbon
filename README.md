@@ -2,9 +2,11 @@
 
 #### Junior researcher in Composite AI Lab, PhD student at ITMO University
 
-My research field is composite, hybrid modelling and AutoML for environmental simulation cases, mostly for ocean hydrodynamics.
-I am specialist in GIS and cartography (create maps, infographic and so forth).
+My research focuses on developing neural networks for **computer vision** and **spatio-temporal forecasting**, with primary application to **environmental simulation** (especially ocean hydrodynamics). I also explore methods in **manifold learning** for high-dimensional data analysis.
 
-As the part of the [NSS Lab](https://itmo-nss-team.github.io) team I'm currently working on [FEDOT framework](https://github.com/nccr-itmo/FEDOT) and other tools for natural fields reconstruction.
+As a specialist in GIS and cartography, I bridge data science with geospatial visualization, creating maps and infographics to interpret model outputs.
 
-My research papers are available in [Google Scholar](https://scholar.google.com/citations?hl=ru&user=kOPGTPoAAAAJ&view_op=list_works&gmla=AJsN-F6xrMERTiZDoTCrR8gByAQli9Y7z6xaHJgjm3IT0E5_pRYxFNT8gW6glfwYeYibRTBqoKF7Miaa3Hkv1Su1WLAWNSWhXk2O8YLgMkpkZ7jtwbcyK_16Ft3elXJDhL9BLHHRN8DX).
+I am the part of the [NSS Lab](https://github.com/ITMO-NSS-team) team.
+My key projects include [TorchCNNBuilder](https://github.com/ChrisLisbon/TorchCNNBuilder), a Python library for modular and configurable construction of convolutional neural networks in PyTorch, designed to streamline prototyping and experimentation, and contributions to the automated machine learning framework [FEDOT](https://github.com/aimclub/FEDOT). I am driven by building tools that bridge advanced AI with impactful domain science.
+
+My research papers are available on [Google Scholar](https://scholar.google.com/citations?hl=ru&user=kOPGTPoAAAAJ&view_op=list_works&gmla=AJsN-F6xrMERTiZDoTCrR8gByAQli9Y7z6xaHJgjm3IT0E5_pRYxFNT8gW6glfwYeYibRTBqoKF7Miaa3Hkv1Su1WLAWNSWhXk2O8YLgMkpkZ7jtwbcyK_16Ft3elXJDhL9BLHHRN8DX).
